@@ -1,4 +1,4 @@
-package com.qhzx.im.service.impl;
+package com.lrw.im.service.impl;
 
 import java.io.File;
 import java.io.RandomAccessFile;

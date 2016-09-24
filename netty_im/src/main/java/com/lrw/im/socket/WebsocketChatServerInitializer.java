@@ -1,7 +1,7 @@
-package com.qhzx.im.socket;
+package com.lrw.im.socket;
 
-import com.qhzx.im.service.impl.HttpRequestHandler;
-import com.qhzx.im.service.impl.TextWebSocketFrameHandler;
+import com.lrw.im.service.impl.HttpRequestHandler;
+import com.lrw.im.service.impl.TextWebSocketFrameHandler;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;

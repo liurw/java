@@ -1,4 +1,4 @@
-package com.qhzx.im;
+package com.lrw.im;
 
 /**
  * Hello world!

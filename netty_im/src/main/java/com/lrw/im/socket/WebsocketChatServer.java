@@ -1,4 +1,4 @@
-package com.qhzx.im.socket;
+package com.lrw.im.socket;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

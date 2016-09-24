@@ -1,4 +1,4 @@
-package com.qhzx.im.service.impl;
+package com.lrw.im.service.impl;
 
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelHandlerContext;
